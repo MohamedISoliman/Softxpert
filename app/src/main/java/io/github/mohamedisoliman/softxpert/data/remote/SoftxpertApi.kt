@@ -1,4 +1,4 @@
-package io.github.mohamedisoliman.softxpert.data.entities.remote
+package io.github.mohamedisoliman.softxpert.data.remote
 
 import io.github.mohamedisoliman.softxpert.data.entities.CarsResponse
 import io.reactivex.Single

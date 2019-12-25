@@ -1,7 +1,7 @@
 package io.github.mohamedisoliman.softxpert.domain
 
 import io.github.mohamedisoliman.softxpert.data.entities.Car
-import io.github.mohamedisoliman.softxpert.data.entities.remote.ServerFactory
+import io.github.mohamedisoliman.softxpert.data.remote.ServerFactory
 import io.reactivex.Single
 
 /**

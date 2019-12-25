@@ -1,4 +1,4 @@
-package io.github.mohamedisoliman.softxpert.data.entities.remote
+package io.github.mohamedisoliman.softxpert.data.remote
 
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
